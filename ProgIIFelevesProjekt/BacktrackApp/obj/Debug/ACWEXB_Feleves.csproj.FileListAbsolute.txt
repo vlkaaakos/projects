@@ -1,0 +1,8 @@
+C:\Users\vaako\source\repos\ACWEXB_Feleves\ACWEXB_Feleves\bin\Debug\ACWEXB_Feleves.exe.config
+C:\Users\vaako\source\repos\ACWEXB_Feleves\ACWEXB_Feleves\bin\Debug\ACWEXB_Feleves.exe
+C:\Users\vaako\source\repos\ACWEXB_Feleves\ACWEXB_Feleves\bin\Debug\ACWEXB_Feleves.pdb
+C:\Users\vaako\source\repos\ACWEXB_Feleves\ACWEXB_Feleves\obj\Debug\ACWEXB_Feleves.csproj.AssemblyReference.cache
+C:\Users\vaako\source\repos\ACWEXB_Feleves\ACWEXB_Feleves\obj\Debug\ACWEXB_Feleves.csproj.SuggestedBindingRedirects.cache
+C:\Users\vaako\source\repos\ACWEXB_Feleves\ACWEXB_Feleves\obj\Debug\ACWEXB_Feleves.csproj.CoreCompileInputs.cache
+C:\Users\vaako\source\repos\ACWEXB_Feleves\ACWEXB_Feleves\obj\Debug\ACWEXB_Feleves.exe
+C:\Users\vaako\source\repos\ACWEXB_Feleves\ACWEXB_Feleves\obj\Debug\ACWEXB_Feleves.pdb
