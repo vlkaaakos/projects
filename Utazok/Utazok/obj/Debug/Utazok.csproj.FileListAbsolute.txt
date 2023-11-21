@@ -1,0 +1,7 @@
+C:\Users\vaako\source\repos\Utazok\Utazok\bin\Debug\Utazok.exe.config
+C:\Users\vaako\source\repos\Utazok\Utazok\bin\Debug\Utazok.exe
+C:\Users\vaako\source\repos\Utazok\Utazok\bin\Debug\Utazok.pdb
+C:\Users\vaako\source\repos\Utazok\Utazok\obj\Debug\Utazok.csproj.AssemblyReference.cache
+C:\Users\vaako\source\repos\Utazok\Utazok\obj\Debug\Utazok.csproj.CoreCompileInputs.cache
+C:\Users\vaako\source\repos\Utazok\Utazok\obj\Debug\Utazok.exe
+C:\Users\vaako\source\repos\Utazok\Utazok\obj\Debug\Utazok.pdb

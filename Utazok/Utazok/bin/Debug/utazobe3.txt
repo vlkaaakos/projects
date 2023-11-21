@@ -1,0 +1,8 @@
+3
+3 8 Tokió
+12 16 Peking
+21 23 Mexikóváros
+3
+2 6 Kairó
+14 19 London
+29 31 Jeruzsálem
